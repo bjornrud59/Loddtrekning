@@ -1,0 +1,14 @@
+C:\DOTTNETT-Prosjekter\LoddTrekning\obj\Debug\LoddTrekning.exe
+C:\DOTTNETT-Prosjekter\LoddTrekning\obj\Debug\LoddTrekning.xml
+C:\DOTTNETT-Prosjekter\LoddTrekning\obj\Debug\LoddTrekning.pdb
+C:\DOTTNETT-Prosjekter\LoddTrekning\bin\LoddTrekning.exe
+C:\DOTTNETT-Prosjekter\LoddTrekning\bin\LoddTrekning.pdb
+C:\DOTTNETT-Prosjekter\LoddTrekning\bin\LoddTrekning.xml
+C:\DOTTNETT-Prosjekter\LoddTrekning\obj\Debug\ResolveAssemblyReference.cache
+C:\DOTTNETT-Prosjekter\LoddTrekning\obj\Debug\WindowsApplication1.Form1.resources
+C:\DOTTNETT-Prosjekter\LoddTrekning\obj\Debug\WindowsApplication1.frmTrMetode.resources
+C:\DOTTNETT-Prosjekter\LoddTrekning\obj\Debug\Loddtrekning.vbproj.GenerateResource.Cache
+C:\DOTTNETT-Prosjekter\LoddTrekning\bin\LoddTrekning.exe.manifest
+C:\DOTTNETT-Prosjekter\LoddTrekning\bin\LoddTrekning.application
+C:\DOTTNETT-Prosjekter\LoddTrekning\obj\Debug\LoddTrekning.exe.manifest
+C:\DOTTNETT-Prosjekter\LoddTrekning\obj\Debug\LoddTrekning.application

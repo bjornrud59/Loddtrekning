@@ -1,0 +1,15 @@
+obj\Release\LoddTrekning.exe
+bin\LoddTrekning.exe
+bin\LoddTrekning.xml
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\WindowsApplication1.Form1.resources
+obj\Release\Loddtrekning.vbproj.GenerateResource.Cache
+obj\Release\LoddTrekning.xml
+obj\Debug\LoddTrekning.exe
+obj\Debug\LoddTrekning.pdb
+bin\LoddTrekning.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\WindowsApplication1.Form1.resources
+obj\Debug\Loddtrekning.vbproj.GenerateResource.Cache
+obj\Debug\LoddTrekning.xml
+obj\Debug\WindowsApplication1.frmTrMetode.resources

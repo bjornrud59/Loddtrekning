@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="LoddTrekning">
+</Property><Property Name="Solution File" Value="C:\DOTTNETT-Prosjekter\LoddTrekning\LoddTrekning.sln">
+</Property><Property Name="User Options File" Value="C:\DOTTNETT-Prosjekter\LoddTrekning\LoddTrekning.suo">
+</Property><Property Name="Date" Value="24. august 2007">
+</Property><Property Name="Time" Value="13:17">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="LoddTrekning.sln" Description="File successfully backed up as C:\DOTTNETT-Prosjekter\LoddTrekning\Backup\LoddTrekning.sln">
+</Event><Event ErrorLevel="0" Project="" Source="LoddTrekning.suo" Description="File successfully backed up as C:\DOTTNETT-Prosjekter\LoddTrekning\Backup\LoddTrekning.suo">
+</Event><Event ErrorLevel="0" Project="Loddtrekning" Source="Loddtrekning.vbproj" Description="Project file successfully backed up as C:\DOTTNETT-Prosjekter\LoddTrekning\Backup\Loddtrekning.vbproj">
+</Event><Event ErrorLevel="0" Project="Loddtrekning" Source="Loddtrekning.vbproj.user" Description="Project user file successfully backed up as C:\DOTTNETT-Prosjekter\LoddTrekning\Backup\Loddtrekning.vbproj.user">
+</Event><Event ErrorLevel="0" Project="Loddtrekning" Source="AssemblyInfo.vb" Description="File successfully backed up as C:\DOTTNETT-Prosjekter\LoddTrekning\Backup\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="Loddtrekning" Source="frmHoved.vb" Description="File successfully backed up as C:\DOTTNETT-Prosjekter\LoddTrekning\Backup\frmHoved.vb">
+</Event><Event ErrorLevel="0" Project="Loddtrekning" Source="frmHoved.resx" Description="File successfully backed up as C:\DOTTNETT-Prosjekter\LoddTrekning\Backup\frmHoved.resx">
+</Event><Event ErrorLevel="0" Project="Loddtrekning" Source="Loddtrekning.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Loddtrekning" Source="Loddtrekning.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="LoddTrekningInstaller.vdproj" Source="..\LoddTrekningInstaller\LoddTrekningInstaller.vdproj" Description="Project file successfully backed up as C:\DOTTNETT-Prosjekter\LoddTrekning\Backup\LoddTrekningInstaller.vdproj">
+</Event><Event ErrorLevel="0" Project="" Source="LoddTrekning.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="LoddTrekning.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Loddtrekning" Source="Loddtrekning.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="LoddTrekningInstaller.vdproj" Source="..\LoddTrekningInstaller\LoddTrekningInstaller.vdproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="LoddTrekningInstaller.vdproj" Source="..\LoddTrekningInstaller\LoddTrekningInstaller.vdproj" Description="Converted">
+</Event></UpgradeLog>

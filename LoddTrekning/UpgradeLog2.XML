@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="LoddTrekning">
+</Property><Property Name="Solution File" Value="C:\vs2010\LoddTrekning\LoddTrekning.sln">
+</Property><Property Name="Date" Value="4. mars 2011">
+</Property><Property Name="Time" Value="15:06">
+</Property><Property Name="Log Number" Value="2">
+</Property></Properties><Event ErrorLevel="1" Project="Loddtrekning" Source="Loddtrekning.vbproj" Description="Your project is targeting .NET Framework 2.0 or 3.0. If your project uses assemblies requiring a newer .NET Framework, your project will fail to build. You can change the .NET Framework version by clicking Properties on the project menu and then selecting a new version in the '.NET Framework' dropdown box. (In Visual Basic, this is located on the Compile tab by clicking the 'Advanced Compiler Options...' button.)">
+</Event><Event ErrorLevel="0" Project="Loddtrekning" Source="Loddtrekning.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Loddtrekning" Source="Loddtrekning.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="LoddTrekning.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="LoddTrekning.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Loddtrekning" Source="Loddtrekning.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

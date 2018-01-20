@@ -1,0 +1,27 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Loddtrekning", "Loddtrekning.vbproj", "{B503E783-5BC6-43E3-B243-C10D6F4DBE87}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "LoddTrekningInstaller", "..\LoddTrekningInstaller\LoddTrekningInstaller.vdproj", "{9576C859-5797-4550-A342-B78810E0A525}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{B503E783-5BC6-43E3-B243-C10D6F4DBE87}.Debug.ActiveCfg = Debug|.NET
+		{B503E783-5BC6-43E3-B243-C10D6F4DBE87}.Debug.Build.0 = Debug|.NET
+		{B503E783-5BC6-43E3-B243-C10D6F4DBE87}.Release.ActiveCfg = Release|.NET
+		{B503E783-5BC6-43E3-B243-C10D6F4DBE87}.Release.Build.0 = Release|.NET
+		{9576C859-5797-4550-A342-B78810E0A525}.Debug.ActiveCfg = Debug
+		{9576C859-5797-4550-A342-B78810E0A525}.Release.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
