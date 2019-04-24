@@ -1,2 +1,2 @@
 # Loddtrekning
-Et enkelt windows-program for loddtreknig
+Et enkelt windows-program for loddtrekning
